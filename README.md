@@ -3,7 +3,7 @@
 My name is Matt.  I'm into software, people, cooperatives of all kinds, cooking, and music.  
 
 <br/>
-I'm an emeritus member of <a href="https://www.politicsrewired.com/">Politics Rewired</a>, a visionary organizing and software cooperative! 
+I'm currently a software engineer at <a href="https://www.izotope.com/">iZotope</a>. I'm an emeritus member of <a href="https://www.politicsrewired.com/">Politics Rewired</a>, a visionary organizing and software cooperative! 
 <br/><br/>
 
 
