@@ -1,6 +1,6 @@
 ## Welcome! 
 
-My name is Matt.  I'm into software, people, cooperatives of all kinds, cooking, and music.  
+My name is Matt.  I'm into software, people, cooperatives of all kinds, cooking, and music.  Here's what I'm up to these days - <a href="mattg.xyz">mattg.xyz</a>
 
 <br/>
 I'm currently a software engineer at <a href="https://www.izotope.com/">iZotope</a>. 
